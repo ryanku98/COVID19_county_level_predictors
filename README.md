@@ -1,4 +1,4 @@
-# COVID19_county_factors
+# COVID19_county_level_predictors
  On a crusade to find county-level factors as potential indicators to predict COVID19 infection and death rates.
 
 ### Limitations ###
