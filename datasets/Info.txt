@@ -6,5 +6,8 @@ Education.csv: https://www.ers.usda.gov/data-products/county-level-data-sets/dow
 PopulationEstimates.csv: https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
 - Header information: https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/co-est2019-alldata.pdf
 
+AGE.csv: https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#AGE
+HSG.csv: https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#HSG
 LND01.csv: https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#LND
-https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#
+RHI.csv: https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#RHI
+Header information: Mastdata.xls: https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html
